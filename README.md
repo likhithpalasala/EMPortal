@@ -1,6 +1,6 @@
 # Employee Management Portal
 
-A simple CRUD application for managing employee records using Flask and MySQL.
+The application is built for managing  the employee records using Python,Flask, Javacript and MySQL.
 
 ## Features
 
